@@ -27,7 +27,19 @@
           { "name": "Güneye Giderken", "file": "./music/güneye.mp3", "img": "./albums foto/güneye.jpg" },
           { "name": "Aşk Durdukça", "file": "./music/dur.mp3", "img": "./albums foto/dur.jpg" },
           { "name": "Unutulmaz", "file": "./music/unutulmaz.mp3", "img": "./albums foto/unutulmaz.jpg" },
-          { "name": "Mevsimler Geçerken", "file": "./music/mevsim.mp3", "img": "./albums foto/mevsim.jpg" }
+          { "name": "Mevsimler Geçerken", "file": "./music/mevsim.mp3", "img": "./albums foto/mevsim.jpg" },
+           { "name": "Dön Ne Olur", "file": "./music/dönne.mp3", "img": "./albums foto/dönne.jpg" },
+            { "name": "Gülü Soldurmam", "file": "./music/gül.mp3", "img": "./albums foto/gül.jpg" },
+             { "name": "Anlayamazsın", "file": "./music/anlayamazsın.mp3", "img": "./albums foto/anlayamazsın.jpg" },
+              { "name": "Hastalıkta Sağlıkta", "file": "./music/hastalıkta.mp3", "img": "./albums foto/hastalıkta.jpg" }
+        
+        
+        
+        
+        
+        
+        
+        
         ],
       
 
