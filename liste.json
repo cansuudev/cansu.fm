@@ -104,11 +104,7 @@
         "file": "./music/dönne.mp3",
         "img": "./albums foto/dönne.jpg"
       },
-      {
-        "name": "Gülü Soldurmam",
-        "file": "./music/gül.mp3",
-        "img": "./albums foto/gül.jpg"
-      },
+      
       {
         "name": "Anlayamazsın",
         "file": "./music/anlayamazsın.mp3",
@@ -149,7 +145,34 @@
         "name": "Sen Ağlama",
         "file": "./music/ağlama.mp3",
         "img": "./albums foto/ağlama.jpg"
+      },
+{
+        "name": "Alkışlar",
+        "file": "./music/alkış.mp3",
+        "img": "./albums foto/alkış.jpg"
+      },
+{
+        "name": "Güm Güm",
+        "file": "./music/güm.mp3",
+        "img": "./albums foto/güm.jpg"
+      },
+      {
+        "name": "Yin Yang",
+        "file": "./music/ying.mp3",
+        "img": "./albums foto/ying.jpg"
       }
+
+
+
+
+
+
+
+
+
+
+
+
     ],
 
     [
@@ -192,14 +215,36 @@
 
   
 [
-
-
-
-
-
-
-
-
+{
+        "name": "Yıllar",
+        "file": "./music/yıllar.mp3",
+        "img": "./albums foto/yıllar.jpg"
+      },
+{
+        "name": "Yabani",
+        "file": "./music/yabani.mp3",
+        "img": "./albums foto/yabani.jpg"
+      },
+      {
+        "name": "Yok Yalan Deme",
+        "file": "./music/yalandeme.mp3",
+        "img": "./albums foto/yalandeme.jpg"
+      },
+      {
+        "name": "Kalpten Sabıkalı",
+        "file": "./music/sabıka.mp3",
+        "img": "./albums foto/sabıka.jpg"
+      },
+{
+        "name": "Kim Ayırdı Sevenleri",
+        "file": "./music/kimm.mp3",
+        "img": "./albums foto/kimm.jpg"
+      },
+      {
+        "name": "Gülü Soldurmam",
+        "file": "./music/gül.mp3",
+        "img": "./albums foto/gül.jpg"
+      }
 
 
 
