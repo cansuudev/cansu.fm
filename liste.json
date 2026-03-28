@@ -144,11 +144,7 @@
         "file": "./music/deli.mp3",
         "img": "./albums foto/deli.jpg"
       },
-      {
-        "name": "Aşk İçinden",
-        "file": "./music/aşkk.mp3",
-        "img": "./albums foto/aşkk.jpg"
-      },
+     
       {
         "name": "Sen Ağlama",
         "file": "./music/ağlama.mp3",
