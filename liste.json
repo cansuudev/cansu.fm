@@ -109,7 +109,7 @@
         "file": "./music/dönne.mp3",
         "img": "./albums foto/dönne.jpg"
       },
-      
+
       {
         "name": "Anlayamazsın",
         "file": "./music/anlayamazsın.mp3",
@@ -145,34 +145,22 @@
         "file": "./music/deli.mp3",
         "img": "./albums foto/deli.jpg"
       },
-     
+
       {
         "name": "Sen Ağlama",
         "file": "./music/ağlama.mp3",
         "img": "./albums foto/ağlama.jpg"
       },
-{
+      {
         "name": "Alkışlar",
         "file": "./music/alkış.mp3",
         "img": "./albums foto/alkış.jpg"
       },
-{
+      {
         "name": "Güm Güm",
         "file": "./music/güm.mp3",
         "img": "./albums foto/güm.jpg"
       }
-      
-
-
-
-
-
-
-
-
-
-
-
     ],
 
     [
@@ -213,14 +201,13 @@
       }
     ],
 
-  
-[
-{
+    [
+      {
         "name": "Yıllar",
         "file": "./music/yıllar.mp3",
         "img": "./albums foto/yıllar.jpg"
       },
-{
+      {
         "name": "Yabani",
         "file": "./music/yabani.mp3",
         "img": "./albums foto/yabani.jpg"
@@ -235,7 +222,7 @@
         "file": "./music/sabıka.mp3",
         "img": "./albums foto/sabıka.jpg"
       },
-{
+      {
         "name": "Kim Ayırdı Sevenleri",
         "file": "./music/kimm.mp3",
         "img": "./albums foto/kimm.jpg"
@@ -245,40 +232,49 @@
         "file": "./music/gül.mp3",
         "img": "./albums foto/gül.jpg"
       }
+    ],
 
-],
-
-
-
-[
-
-
-
-
-{
+    [
+      {
         "name": "Yin Yang",
         "file": "./music/ying.mp3",
         "img": "./albums foto/ying.jpg"
+      },
+      {
+        "name": "Bitmiyor",
+        "file": "./music/bit.mp3",
+        "img": "./albums foto/bit.jpg"
+      },
+      {
+        "name": "Ölümsüz",
+        "file": "./music/ölümsüz.mp3",
+        "img": "./albums foto/ölümsüz.jpg"
+      },
+      {
+        "name": "Anadolu",
+        "file": "./music/anadolu.mp3",
+        "img": "./albums foto/anadolu.jpg"
+      },
+      {
+        "name": "16-24",
+        "file": "./music/16.mp3",
+        "img": "./albums foto/16.jpg"
+      },
+      {
+        "name": "Makavelli",
+        "file": "./music/makavelli.mp3",
+        "img": "./albums foto/makavelli.jpg"
+      },
+      {
+        "name": "Cennet",
+        "file": "./music/cene.mp3",
+        "img": "./albums foto/cene.jpg"
+      },
+      {
+        "name": "Nereden",
+        "file": "./music/eree.mp3",
+        "img": "./albums foto/eree.jpg"
       }
-
-
-
-
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ]
   ]
 }
