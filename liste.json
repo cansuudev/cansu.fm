@@ -45,7 +45,8 @@
         { "name": "What is love?", "file": "./music/love.mp3", "img": "./albums foto/love.jpg" },
         { "name": "The Feels", "file": "./music/feel.mp3", "img": "./albums foto/feel.jpg" },
         { "name": "New Jeans", "file": "./music/new.mp3", "img": "./albums foto/new.jpg" },
-         { "name": "Attention", "file": "./music/atten.mp3", "img": "./albums foto/atten.jpg" }
+         { "name": "Attention", "file": "./music/atten.mp3", "img": "./albums foto/atten.jpg" },
+          { "name": "Magnetic", "file": "./music/mag.mp3", "img": "./albums foto/mag.jpg" }
 
 
 
