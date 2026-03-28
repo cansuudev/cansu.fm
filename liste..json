@@ -1,0 +1,61 @@
+{
+  "libraries": [
+       
+        [
+          { "name": "After Dark", "file": "./music/mrkitty.mp3", "img": "./albums foto/afterdarkicon.jpg" },
+          {
+            "name": "505",
+            "file": "./music/505.mp3",
+            "img": "./albums foto/Favourite Worst Nightmare.jpg"
+          },
+          { "name": "Headlock", "file": "./music/headlock.mp3", "img": "./albums foto/indir.jpg" },
+          { "name": "Did i tell u", "file": "./music/did.mp3", "img": "./albums foto/did.jpg" },
+          { "name": "Let It Happen", "file": "./music/let.mp3", "img": "./albums foto/let.jpg" },
+          { "name": "Creep", "file": "./music/creep.mp3", "img": "./albums foto/creep.jpg" },
+          { "name": "No Surprises", "file": "./music/no.mp3", "img": "./albums foto/no.jpg" },
+          { "name": "Mary On A Cross", "file": "./music/mary.mp3", "img": "./albums foto/mary.jpg" }
+        ],
+    
+
+
+
+
+
+
+        [
+          { "name": "Melekler", "file": "./music/melek.mp3", "img": "./albums foto/melek.jpg" },
+          { "name": "Güneye Giderken", "file": "./music/güneye.mp3", "img": "./albums foto/güneye.jpg" },
+          { "name": "Aşk Durdukça", "file": "./music/dur.mp3", "img": "./albums foto/dur.jpg" },
+          { "name": "Unutulmaz", "file": "./music/unutulmaz.mp3", "img": "./albums foto/unutulmaz.jpg" },
+          { "name": "Mevsimler Geçerken", "file": "./music/mevsim.mp3", "img": "./albums foto/mevsim.jpg" }
+        ],
+      
+
+
+
+
+
+
+
+
+
+
+
+        [{ "name": "Super Shy", "file": "./music/shy.mp3", "img": "./albums foto/shy.jpg" },
+        { "name": "What is love?", "file": "./music/love.mp3", "img": "./albums foto/love.jpg" },
+        { "name": "The Feels", "file": "./music/feel.mp3", "img": "./albums foto/feel.jpg" },
+        { "name": "New Jeans", "file": "./music/new.mp3", "img": "./albums foto/new.jpg" },
+         { "name": "Attention", "file": "./music/atten.mp3", "img": "./albums foto/atten.jpg" }
+
+
+
+
+
+        ]
+     
+    
+    
+    
+    
+    ]
+}
