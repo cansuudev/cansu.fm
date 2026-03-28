@@ -160,13 +160,8 @@
         "name": "Güm Güm",
         "file": "./music/güm.mp3",
         "img": "./albums foto/güm.jpg"
-      },
-      {
-        "name": "Yin Yang",
-        "file": "./music/ying.mp3",
-        "img": "./albums foto/ying.jpg"
       }
-
+      
 
 
 
@@ -251,9 +246,38 @@
         "img": "./albums foto/gül.jpg"
       }
 
+],
+
+
+
+[
+
+
+
+
+{
+        "name": "Yin Yang",
+        "file": "./music/ying.mp3",
+        "img": "./albums foto/ying.jpg"
+      }
+
+
 
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   ]
