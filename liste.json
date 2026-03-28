@@ -31,7 +31,18 @@
            { "name": "Dön Ne Olur", "file": "./music/dönne.mp3", "img": "./albums foto/dönne.jpg" },
             { "name": "Gülü Soldurmam", "file": "./music/gül.mp3", "img": "./albums foto/gül.jpg" },
              { "name": "Anlayamazsın", "file": "./music/anlayamazsın.mp3", "img": "./albums foto/anlayamazsın.jpg" },
-              { "name": "Hastalıkta Sağlıkta", "file": "./music/hastalıkta.mp3", "img": "./albums foto/hastalıkta.jpg" }
+              { "name": "Hastalıkta Sağlıkta", "file": "./music/hastalıkta.mp3", "img": "./albums foto/hastalıkta.jpg" },
+              { "name": "Bunu Sana Demiştim", "file": "./music/bunu.mp3", "img": "./albums foto/bunu.jpg" },
+              { "name": "Ben Seni Arayamam", "file": "./music/arayamam.mp3", "img": "./albums foto/arayamam.jpg" },
+              { "name": "Komşu Kızı", "file": "./music/kızı.mp3", "img": "./albums foto/kızı.jpg" },
+              { "name": "Yanmış İçinden", "file": "./music/içinden.mp3", "img": "./albums foto/içinden.jpg" },
+              { "name": "Deli", "file": "./music/deli.mp3", "img": "./albums foto/deli.jpg" },
+              { "name": "Aşk İçinden", "file": "./music/aşkk.mp3", "img": "./albums foto/aşkk.jpg" },
+              { "name": "Sen Ağlama", "file": "./music/ağlama.mp3", "img": "./albums foto/ağlama.jpg" }
+
+
+
+
         
         
         
