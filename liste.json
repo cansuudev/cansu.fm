@@ -70,6 +70,11 @@
         "name": "Going Under",
         "file": "./music/under.mp3",
         "img": "./albums foto/under.jpg"
+      },
+      {
+        "name": "Back On 74",
+        "file": "./music/onn.mp3",
+        "img": "./albums foto/onn.jpg"
       }
     ],
 
