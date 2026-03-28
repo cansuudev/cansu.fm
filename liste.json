@@ -46,12 +46,12 @@
         "file": "./music/said.mp3",
         "img": "./albums foto/said.jpg"
       },
-    {
+      {
         "name": "Arabella",
         "file": "./music/arab.mp3",
         "img": "./albums foto/arab.jpg"
       },
-    {
+      {
         "name": "Hayloft",
         "file": "./music/hay.mp3",
         "img": "./albums foto/hay.jpg"
@@ -61,7 +61,7 @@
         "file": "./music/out.mp3",
         "img": "./albums foto/out.jpg"
       },
-    {
+      {
         "name": "So Far So Fake",
         "file": "./music/fake.mp3",
         "img": "./albums foto/fake.jpg"
@@ -71,13 +71,6 @@
         "file": "./music/under.mp3",
         "img": "./albums foto/under.jpg"
       }
-
-
-
-
-
-
-    
     ],
 
     [
