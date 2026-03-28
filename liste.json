@@ -1,85 +1,204 @@
 {
   "libraries": [
-       
-        [
-          { "name": "After Dark", "file": "./music/mrkitty.mp3", "img": "./albums foto/afterdarkicon.jpg" },
-          {
-            "name": "505",
-            "file": "./music/505.mp3",
-            "img": "./albums foto/Favourite Worst Nightmare.jpg"
-          },
-          { "name": "Headlock", "file": "./music/headlock.mp3", "img": "./albums foto/indir.jpg" },
-          { "name": "Did i tell u", "file": "./music/did.mp3", "img": "./albums foto/did.jpg" },
-          { "name": "Let It Happen", "file": "./music/let.mp3", "img": "./albums foto/let.jpg" },
-          { "name": "Creep", "file": "./music/creep.mp3", "img": "./albums foto/creep.jpg" },
-          { "name": "No Surprises", "file": "./music/no.mp3", "img": "./albums foto/no.jpg" },
-          { "name": "Mary On A Cross", "file": "./music/mary.mp3", "img": "./albums foto/mary.jpg" }
-        ],
+    [
+      {
+        "name": "After Dark",
+        "file": "./music/mrkitty.mp3",
+        "img": "./albums foto/afterdarkicon.jpg"
+      },
+      {
+        "name": "505",
+        "file": "./music/505.mp3",
+        "img": "./albums foto/Favourite Worst Nightmare.jpg"
+      },
+      {
+        "name": "Headlock",
+        "file": "./music/headlock.mp3",
+        "img": "./albums foto/indir.jpg"
+      },
+      {
+        "name": "Did i tell u",
+        "file": "./music/did.mp3",
+        "img": "./albums foto/did.jpg"
+      },
+      {
+        "name": "Let It Happen",
+        "file": "./music/let.mp3",
+        "img": "./albums foto/let.jpg"
+      },
+      {
+        "name": "Creep",
+        "file": "./music/creep.mp3",
+        "img": "./albums foto/creep.jpg"
+      },
+      {
+        "name": "No Surprises",
+        "file": "./music/no.mp3",
+        "img": "./albums foto/no.jpg"
+      },
+      {
+        "name": "Mary On A Cross",
+        "file": "./music/mary.mp3",
+        "img": "./albums foto/mary.jpg"
+      },
+      {
+        "name": "All The Thing She Said",
+        "file": "./music/sad.mp3",
+        "img": "./albums foto/sad.jpg"
+      },
+    {
+        "name": "Arabella",
+        "file": "./music/arab.mp3",
+        "img": "./albums foto/arab.jpg"
+      },
+    {
+        "name": "Hayloft",
+        "file": "./music/hay.mp3",
+        "img": "./albums foto/hay.jpg"
+      },
+      {
+        "name": "Wrong Side Out",
+        "file": "./music/out.mp3",
+        "img": "./albums foto/out.jpg"
+      },
+    {
+        "name": "So Far So Fake",
+        "file": "./music/fake.mp3",
+        "img": "./albums foto/fake.jpg"
+      },
+      {
+        "name": "Going Under",
+        "file": "./music/under.mp3",
+        "img": "./albums foto/under.jpg"
+      }
+
+
+
+
+
+
     
+    ],
 
+    [
+      {
+        "name": "Melekler",
+        "file": "./music/melek.mp3",
+        "img": "./albums foto/melek.jpg"
+      },
+      {
+        "name": "Güneye Giderken",
+        "file": "./music/güneye.mp3",
+        "img": "./albums foto/güneye.jpg"
+      },
+      {
+        "name": "Aşk Durdukça",
+        "file": "./music/dur.mp3",
+        "img": "./albums foto/dur.jpg"
+      },
+      {
+        "name": "Unutulmaz",
+        "file": "./music/unutulmaz.mp3",
+        "img": "./albums foto/unutulmaz.jpg"
+      },
+      {
+        "name": "Mevsimler Geçerken",
+        "file": "./music/mevsim.mp3",
+        "img": "./albums foto/mevsim.jpg"
+      },
+      {
+        "name": "Dön Ne Olur",
+        "file": "./music/dönne.mp3",
+        "img": "./albums foto/dönne.jpg"
+      },
+      {
+        "name": "Gülü Soldurmam",
+        "file": "./music/gül.mp3",
+        "img": "./albums foto/gül.jpg"
+      },
+      {
+        "name": "Anlayamazsın",
+        "file": "./music/anlayamazsın.mp3",
+        "img": "./albums foto/anlayamazsın.jpg"
+      },
+      {
+        "name": "Hastalıkta Sağlıkta",
+        "file": "./music/hastalıkta.mp3",
+        "img": "./albums foto/hastalıkta.jpg"
+      },
+      {
+        "name": "Bunu Sana Demiştim",
+        "file": "./music/bunu.mp3",
+        "img": "./albums foto/bunu.jpg"
+      },
+      {
+        "name": "Ben Seni Arayamam",
+        "file": "./music/arayamam.mp3",
+        "img": "./albums foto/arayamam.jpg"
+      },
+      {
+        "name": "Komşu Kızı",
+        "file": "./music/kızı.mp3",
+        "img": "./albums foto/kızı.jpg"
+      },
+      {
+        "name": "Yanmış İçinden",
+        "file": "./music/içinden.mp3",
+        "img": "./albums foto/içinden.jpg"
+      },
+      {
+        "name": "Deli",
+        "file": "./music/deli.mp3",
+        "img": "./albums foto/deli.jpg"
+      },
+      {
+        "name": "Aşk İçinden",
+        "file": "./music/aşkk.mp3",
+        "img": "./albums foto/aşkk.jpg"
+      },
+      {
+        "name": "Sen Ağlama",
+        "file": "./music/ağlama.mp3",
+        "img": "./albums foto/ağlama.jpg"
+      }
+    ],
 
-
-
-
-
-        [
-          { "name": "Melekler", "file": "./music/melek.mp3", "img": "./albums foto/melek.jpg" },
-          { "name": "Güneye Giderken", "file": "./music/güneye.mp3", "img": "./albums foto/güneye.jpg" },
-          { "name": "Aşk Durdukça", "file": "./music/dur.mp3", "img": "./albums foto/dur.jpg" },
-          { "name": "Unutulmaz", "file": "./music/unutulmaz.mp3", "img": "./albums foto/unutulmaz.jpg" },
-          { "name": "Mevsimler Geçerken", "file": "./music/mevsim.mp3", "img": "./albums foto/mevsim.jpg" },
-           { "name": "Dön Ne Olur", "file": "./music/dönne.mp3", "img": "./albums foto/dönne.jpg" },
-            { "name": "Gülü Soldurmam", "file": "./music/gül.mp3", "img": "./albums foto/gül.jpg" },
-             { "name": "Anlayamazsın", "file": "./music/anlayamazsın.mp3", "img": "./albums foto/anlayamazsın.jpg" },
-              { "name": "Hastalıkta Sağlıkta", "file": "./music/hastalıkta.mp3", "img": "./albums foto/hastalıkta.jpg" },
-              { "name": "Bunu Sana Demiştim", "file": "./music/bunu.mp3", "img": "./albums foto/bunu.jpg" },
-              { "name": "Ben Seni Arayamam", "file": "./music/arayamam.mp3", "img": "./albums foto/arayamam.jpg" },
-              { "name": "Komşu Kızı", "file": "./music/kızı.mp3", "img": "./albums foto/kızı.jpg" },
-              { "name": "Yanmış İçinden", "file": "./music/içinden.mp3", "img": "./albums foto/içinden.jpg" },
-              { "name": "Deli", "file": "./music/deli.mp3", "img": "./albums foto/deli.jpg" },
-              { "name": "Aşk İçinden", "file": "./music/aşkk.mp3", "img": "./albums foto/aşkk.jpg" },
-              { "name": "Sen Ağlama", "file": "./music/ağlama.mp3", "img": "./albums foto/ağlama.jpg" }
-
-
-
-
-        
-        
-        
-        
-        
-        
-        
-        
-        ],
-      
-
-
-
-
-
-
-
-
-
-
-
-        [{ "name": "Super Shy", "file": "./music/shy.mp3", "img": "./albums foto/shy.jpg" },
-        { "name": "What is love?", "file": "./music/love.mp3", "img": "./albums foto/love.jpg" },
-        { "name": "The Feels", "file": "./music/feel.mp3", "img": "./albums foto/feel.jpg" },
-        { "name": "New Jeans", "file": "./music/new.mp3", "img": "./albums foto/new.jpg" },
-         { "name": "Attention", "file": "./music/atten.mp3", "img": "./albums foto/atten.jpg" },
-          { "name": "Magnetic", "file": "./music/mag.mp3", "img": "./albums foto/mag.jpg" },
-{ "name": "Spaghetti", "file": "./music/spa.mp3", "img": "./albums foto/spa.jpg" }
-
-
-
-
-        ]
-     
-    
-    
-    
-    
+    [
+      {
+        "name": "Super Shy",
+        "file": "./music/shy.mp3",
+        "img": "./albums foto/shy.jpg"
+      },
+      {
+        "name": "What is love?",
+        "file": "./music/love.mp3",
+        "img": "./albums foto/love.jpg"
+      },
+      {
+        "name": "The Feels",
+        "file": "./music/feel.mp3",
+        "img": "./albums foto/feel.jpg"
+      },
+      {
+        "name": "New Jeans",
+        "file": "./music/new.mp3",
+        "img": "./albums foto/new.jpg"
+      },
+      {
+        "name": "Attention",
+        "file": "./music/atten.mp3",
+        "img": "./albums foto/atten.jpg"
+      },
+      {
+        "name": "Magnetic",
+        "file": "./music/mag.mp3",
+        "img": "./albums foto/mag.jpg"
+      },
+      {
+        "name": "Spaghetti",
+        "file": "./music/spa.mp3",
+        "img": "./albums foto/spa.jpg"
+      }
     ]
+  ]
 }
