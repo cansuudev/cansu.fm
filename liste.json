@@ -62,6 +62,11 @@
         "img": "./albums foto/out.jpg"
       },
       {
+        "name": "Sleep Well",
+        "file": "./music/po.mp3",
+        "img": "./albums foto/po.jpg"
+      },
+      {
         "name": "So Far So Fake",
         "file": "./music/fake.mp3",
         "img": "./albums foto/fake.jpg"
@@ -75,6 +80,62 @@
         "name": "Back On 74",
         "file": "./music/onn.mp3",
         "img": "./albums foto/onn.jpg"
+      },
+
+      {
+        "name": "Ghosting",
+        "file": "./music/gh.mp3",
+        "img": "./albums foto/gh.jpg"
+      },
+      {
+        "name": "R U Mine?",
+        "file": "./music/r.mp3",
+        "img": "./albums foto/r.jpg"
+      },
+      {
+        "name": "Babooshka",
+        "file": "./music/ba.mp3",
+        "img": "./albums foto/ba.jpg"
+      },
+      {
+        "name": "Moment",
+        "file": "./music/moment.mp3",
+        "img": "./albums foto/moment.jpg"
+      },
+      {
+        "name": "Who Is She",
+        "file": "./music/isf.mp3",
+        "img": "./albums foto/isf.jpg"
+      },
+      {
+        "name": "Mayonaka No Door",
+        "file": "./music/mayo.mp3",
+        "img": "./albums foto/mayo.jpg"
+      },
+      {
+        "name": "King For A Day",
+        "file": "./music/fora.mp3",
+        "img": "./albums foto/fora.jpg"
+      },
+      {
+        "name": "I'll Do It",
+        "file": "./music/ıll.mp3",
+        "img": "./albums foto/ıll.jpg"
+      },
+      {
+        "name": "Hynotised",
+        "file": "./music/colp.mp3",
+        "img": "./albums foto/colp.jpg"
+      },
+      {
+        "name": "Maria",
+        "file": "./music/mariaa.mp3",
+        "img": "./albums foto/mariaa.jpg"
+      },
+      {
+        "name": "Goodbye",
+        "file": "./music/goodbye.mp3",
+        "img": "./albums foto/goodbye.jpg"
       }
     ],
 
@@ -274,6 +335,16 @@
         "name": "Nereden",
         "file": "./music/eree.mp3",
         "img": "./albums foto/eree.jpg"
+      },
+      {
+        "name": "Bellydance",
+        "file": "./music/dan.mp3",
+        "img": "./albums foto/dan.jpg"
+      },
+      {
+        "name": "Yenilmem",
+        "file": "./music/mem.mp3",
+        "img": "./albums foto/mem.jpg"
       }
     ]
   ]
