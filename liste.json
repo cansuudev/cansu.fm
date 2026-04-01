@@ -141,7 +141,24 @@
         "name": "See You Again",
         "file": "./music/youagain.mp3",
         "img": "./albums foto/youagain.jpg"
+      },
+       {
+        "name": "В последний раз",
+        "file": "./music/sonkez.mp3",
+        "img": "./albums foto/sonkez.jpg"
+      },
+       {
+        "name": "Alors on Dance",
+        "file": "./music/alors.mp3",
+        "img": "./albums foto/alors.jpg"
+      },
+      {
+        "name": "Love Story",
+        "file": "./music/loves.mp3",
+        "img": "./albums foto/loves.jpg"
       }
+
+      
     ],
 
     [
@@ -236,6 +253,11 @@
         "name": "Ben Bazen",
         "file": "./music/benbazen.mp3",
         "img": "./albums foto/benbazen.jpg"
+      },
+       {
+        "name": "Ortak",
+        "file": "./music/ortak.mp3",
+        "img": "./albums foto/ortak.jpg"
       }
      
     ],
