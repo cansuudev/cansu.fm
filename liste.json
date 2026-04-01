@@ -136,6 +136,11 @@
         "name": "Goodbye",
         "file": "./music/goodbye.mp3",
         "img": "./albums foto/goodbye.jpg"
+      },
+      {
+        "name": "See You Again",
+        "file": "./music/youagain.mp3",
+        "img": "./albums foto/youagain.jpg"
       }
     ],
 
@@ -221,7 +226,18 @@
         "name": "Güm Güm",
         "file": "./music/güm.mp3",
         "img": "./albums foto/güm.jpg"
+      },
+      {
+        "name": "Sevmek Yüzünden",
+        "file": "./music/sevmek.mp3",
+        "img": "./albums foto/sevmek.jpg"
+      },
+      {
+        "name": "Ben Bazen",
+        "file": "./music/benbazen.mp3",
+        "img": "./albums foto/benbazen.jpg"
       }
+     
     ],
 
     [
