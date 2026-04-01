@@ -383,6 +383,11 @@
         "name": "Yenilmem",
         "file": "./music/mem.mp3",
         "img": "./albums foto/mem.jpg"
+      },
+       {
+        "name": "PvG",
+        "file": "./music/pvg.mp3",
+        "img": "./albums foto/pvg.jpg"
       }
     ]
   ]
