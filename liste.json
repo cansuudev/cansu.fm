@@ -258,7 +258,14 @@
         "name": "Ortak",
         "file": "./music/ortak.mp3",
         "img": "./albums foto/ortak.jpg"
+      },
+       {
+        "name": "Melekler(Sİbel Can)",
+        "file": "./music/meleek.mp3",
+        "img": "./albums foto/meleek.jpg"
       }
+      
+      
      
     ],
 
