@@ -156,7 +156,53 @@
         "name": "Love Story",
         "file": "./music/loves.mp3",
         "img": "./albums foto/loves.jpg"
+      },
+      {
+        "name": "King of Nothing",
+        "file": "./music/kingg.mp3",
+        "img": "./albums foto/kingg.jpg"
+      },
+      {
+        "name": "Knee Socks",
+        "file": "./music/knee.mp3",
+        "img": "./albums foto/knee.jpg"
+      },
+      {
+        "name": "Lethargy",
+        "file": "./music/letha.mp3",
+        "img": "./albums foto/letha.jpg"
+      },
+      {
+        "name": "No Wind Resistance!",
+        "file": "./music/nowind.mp3",
+        "img": "./albums foto/nowind.jpg"
+      },
+      {
+        "name": "Pressure",
+        "file": "./music/pressurer.mp3",
+        "img": "./albums foto/pressurer.jpg"
+      },
+      {
+        "name": "RUNRUNRUN",
+        "file": "./music/RUN.mp3",
+        "img": "./albums foto/RUN.jpg"
+      },
+      {
+        "name": "Square One",
+        "file": "./music/sq1.mp3",
+        "img": "./albums foto/sq1.jpg"
+      },
+      {
+        "name": "The Winner Takes It All",
+        "file": "./music/the8.mp3",
+        "img": "./albums foto/the8.jpg"
+      },
+      {
+        "name": "Undisclosed Desires",
+        "file": "./music/desir3.mp3",
+        "img": "./albums foto/desir3.jpg"
       }
+      
 
       
     ],
