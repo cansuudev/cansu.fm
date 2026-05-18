@@ -201,7 +201,216 @@
         "name": "Undisclosed Desires",
         "file": "./music/desir3.mp3",
         "img": "./albums foto/desir3.jpg"
+      },
+      {
+        "name": "A Match Into Water",
+        "file": "./music/amatach56.mp3",
+        "img": "./albums foto/amatach56.jpg"
+      },
+        {
+        "name": "Angst",
+        "file": "./music/angstf.mp3",
+        "img": "./albums foto/angstf.jpg"
+      },
+         {
+        "name": "bad idea",
+        "file": "./music/badidea.mp3",
+        "img": "./albums foto/badidea.jpg"
+      },
+       {
+        "name": "Body",
+        "file": "./music/body6.mp3",
+        "img": "./albums foto/body6.jpg"
+      },
+       {
+        "name": "Bring Me To Life",
+        "file": "./music/tolide4.mp3",
+        "img": "./albums foto/tolide4.jpg"
+      },
+       {
+        "name": "Custer",
+        "file": "./music/custer.mp3",
+        "img": "./albums foto/custer.jpg"
+      },
+       {
+        "name": "Emo Boy",
+        "file": "./music/emo44.mp3",
+        "img": "./albums foto/emo44.jpg"
+      },
+      {
+        "name": "Fluorescent Adolescent",
+        "file": "./music/flour5.mp3",
+        "img": "./albums foto/flour5.jpg"
+      },
+      {
+        "name": "Genesis",
+        "file": "./music/genesis3.mp3",
+        "img": "./albums foto/genesis3.jpg"
+      },
+      {
+        "name": "Hayloft II",
+        "file": "./music/Hayloft2.mp3",
+        "img": "./albums foto/Hayloft2.jpg"
+      },
+      {
+        "name": "Heavy Love",
+        "file": "./music/heavy88.mp3",
+        "img": "./albums foto/heavy88.jpg"
+      },
+      {
+        "name": "Hidden In The Sand",
+        "file": "./music/body69.mp3",
+        "img": "./albums foto/body69.jpg"
+      },
+      {
+        "name": "Horns",
+        "file": "./music/horns.mp3",
+        "img": "./albums foto/horns.jpg"
+      },
+       {
+        "name": "House of Memories",
+        "file": "./music/memors.mp3",
+        "img": "./albums foto/memors.jpg"
+      },
+       {
+        "name": "I Hate Everything About You",
+        "file": "./music/hate.mp3",
+        "img": "./albums foto/hate.jpg"
+      },
+       {
+        "name": "I Wanna Be Yours",
+        "file": "./music/beyourd.mp3",
+        "img": "./albums foto/beyourd.jpg"
+      },
+       {
+        "name": "In My Room",
+        "file": "./music/rooms.mp3",
+        "img": "./albums foto/rooms.jpg"
+      },
+      {
+        "name": "In The End",
+        "file": "./music/ınthe.mp3",
+        "img": "./albums foto/ınthe.jpg"
+      },
+      {
+        "name": "Join Me",
+        "file": "./music/joinme1.mp3",
+        "img": "./albums foto/joinme1.jpg"
+      },
+      {
+        "name": "Les",
+        "file": "./music/les.mp3",
+        "img": "./albums foto/les.jpg"
+      },
+      {
+        "name": "Little Dark Age",
+        "file": "./music/darkage.mp3",
+        "img": "./albums foto/darkage.jpg"
+      },
+      {
+        "name": "Me and Your Mama",
+        "file": "./music/urmama.mp3",
+        "img": "./albums foto/urmama.jpg"
+      },
+      {
+        "name": "Meet Me At Our Spot",
+        "file": "./music/meetmeaturspot.mp3",
+        "img": "./albums foto/meetmeaturspot.jpg"
+      },
+      {
+        "name": "My Ordinary Life",
+        "file": "./music/myordinarylife.mp3",
+        "img": "./albums foto/myordinarylife.jpg"
+      },
+      {
+        "name": "My Own Summer",
+        "file": "./music/myownsummer.mp3",
+        "img": "./albums foto/myownsummer.jpg"
+      },
+      {
+        "name": "Numb",
+        "file": "./music/numb.mp3",
+        "img": "./albums foto/numb.jpg"
+      },
+      {
+        "name": "Oh Ana",
+        "file": "./music/OHANA.mp3",
+        "img": "./albums foto/OHANA.jpg"
+      },
+      {
+        "name": "PUNK TACTİCS",
+        "file": "./music/PUNKT.mp3",
+        "img": "./albums foto/PUNKT.jpg"
+      },
+      {
+        "name": "Radioactive",
+        "file": "./music/radioac.mp3",
+        "img": "./albums foto/radioac.jpg"
+      },
+      {
+        "name": "Rape Me",
+        "file": "./music/ramepe.mp3",
+        "img": "./albums foto/ramepe.jpg"
+      },
+      {
+        "name": "RICHMAN",
+        "file": "./music/RICHMAN.mp3",
+        "img": "./albums foto/RICHMAN.jpg"
+      },
+      {
+        "name": "Runway Walk",
+        "file": "./music/runwayf.mp3",
+        "img": "./albums foto/runwayf.jpg"
+      },
+      {
+        "name": "SPIT IN MY FACE!",
+        "file": "./music/SPİTIN.mp3",
+        "img": "./albums foto/SPİTIN.jpg"
+      },
+      {
+        "name": "Sunday",
+        "file": "./music/sunday.mp3",
+        "img": "./albums foto/sunday.jpg"
+      },
+      {
+        "name": "Transparents Soul",
+        "file": "./music/soulS.mp3",
+        "img": "./albums foto/soulS.jpg"
+      },
+      {
+        "name": "The Devil In I",
+        "file": "./music/devild.mp3",
+        "img": "./albums foto/devild.jpg"
+      },
+      {
+        "name": "The Unforgiven",
+        "file": "./music/forgven.mp3",
+        "img": "./albums foto/forgven.jpg"
+      },
+      {
+        "name": "Verbatim",
+        "file": "./music/Verbat.mp3",
+        "img": "./albums foto/Verbat.jpg"
+      },
+      {
+        "name": "Wicked Game",
+        "file": "./music/wickedgav.mp3",
+        "img": "./albums foto/wickedgav.jpg"
+      },
+      {
+        "name": "Worry",
+        "file": "./music/sunday5.mp3",
+        "img": "./albums foto/sunday5.jpg"
       }
+
+
+
+
+   
+   
+
+      
+
       
 
       
