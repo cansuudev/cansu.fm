@@ -518,18 +518,335 @@
         "name": "Melekler(Sİbel)",
         "file": "./music/meleek.mp3",
         "img": "./albums foto/meleek.jpg"
+      },
+      {
+        "name": "Acele Etme",
+        "file": "./music/aceleetme.mp3",
+        "img": "./albums foto/aceleetme.jpg"
+      },
+      {
+        "name": "Acı Veriyor",
+        "file": "./music/acıveriyr.mp3",
+        "img": "./albums foto/acıveriyr.jpg"
+      },
+      {
+        "name": "Acımayacak",
+        "file": "./music/acımayacak.mp3",
+        "img": "./albums foto/acımayacak.jpg"
+      },
+      {
+        "name": "Aman",
+        "file": "./music/aman.mp3",
+        "img": "./albums foto/aman.jpg"
+      },
+      {
+        "name": "Arada Bir",
+        "file": "./music/aradabir.mp3",
+        "img": "./albums foto/aradabir.jpg"
+      },
+      {
+        "name": "Aşk-ı Virane",
+        "file": "./music/viranee.mp3",
+        "img": "./albums foto/viranee.jpg"
+      },
+      {
+        "name": "Aşkın Ateşi",
+        "file": "./music/akınatesv.mp3",
+        "img": "./albums foto/akınatesv.jpg"
+      },
+      {
+        "name": "Ben Hala Rüyada",
+        "file": "./music/halarüuada.mp3",
+        "img": "./albums foto/halarüuada.jpg"
+      },
+      {
+        "name": "Bakıcaz",
+        "file": "./music/bakıcx.mp3",
+        "img": "./albums foto/bakıcx.jpg"
+      },
+      {
+        "name": "Baksana Talihe",
+        "file": "./music/baksanatalig.mp3",
+        "img": "./albums foto/baksanatalig.jpg"
+      },
+       {
+        "name": "Bana Anlat",
+        "file": "./music/banaankat.mp3",
+        "img": "./albums foto/banaankat.jpg"
+      },
+       {
+        "name": "Ben Bilmem",
+        "file": "./music/benbilmem.mp3",
+        "img": "./albums foto/benbilmem.jpg"
+      },
+       {
+        "name": "Benden Sonra",
+        "file": "./music/BendenSonra.mp3",
+        "img": "./albums foto/BendenSonra.jpg"
+      },
+       {
+        "name": "Bir Bakmışsın",
+        "file": "./music/birbakmıssın.mp3",
+        "img": "./albums foto/birbakmıssın.jpg"
+      },
+       {
+        "name": "Bir Güzellik Yap",
+        "file": "./music/güzlelik.mp3",
+        "img": "./albums foto/güzlelik.jpg"
+      },
+       {
+        "name": "Boş Bardak",
+        "file": "./music/boşbardak.mp3",
+        "img": "./albums foto/boşbardak.jpg"
+      },
+       {
+        "name": "Bu Aralar",
+        "file": "./music/buaralar.mp3",
+        "img": "./albums foto/buaralar.jpg"
+      },
+       {
+        "name": "Bu Aşkın Katili Sensin",
+        "file": "./music/katilisisensn.mp3",
+        "img": "./albums foto/katilisisensn.jpg"
+      },
+       {
+        "name": "Buz",
+        "file": "./music/buz.mp3",
+        "img": "./albums foto/buz.jpg"
+      },
+      {
+        "name": "Hangimiz Tertemiz",
+        "file": "./music/hangimztertmez.mp3",
+        "img": "./albums foto/hangimztertmez.jpg"
+      },
+      {
+        "name": "Delirme",
+        "file": "./music/deelirme.mp3",
+        "img": "./albums foto/deelirme.jpg"
+      },
+      {
+        "name": "Derine",
+        "file": "./music/derine.mp3",
+        "img": "./albums foto/derine.jpg"
+      },
+      {
+        "name": "Gel De Uyu",
+        "file": "./music/geldeuyu.mp3",
+        "img": "./albums foto/geldeuyu.jpg"
+      },
+      {
+        "name": "Gel",
+        "file": "./music/gel7.mp3",
+        "img": "./albums foto/gel7.jpg"
+      },
+      {
+        "name": "Gün Ağardı",
+        "file": "./music/günaagardı.mp3",
+        "img": "./albums foto/günaagardı.jpg"
+      },
+      {
+        "name": "Haberin Olsun",
+        "file": "./music/habernolsn.mp3",
+        "img": "./albums foto/habernolsn.jpg"
+      },
+      {
+        "name": "Her Şey Sensin",
+        "file": "./music/herşeysensn.mp3",
+        "img": "./albums foto/herşeysensn.jpg"
+      },
+      {
+        "name": "İstiklal",
+        "file": "./music/istklal.mp3",
+        "img": "./albums foto/istklal.jpg"
+      },
+      {
+        "name": "İşim Olmaz",
+        "file": "./music/işimomaz.mp3",
+        "img": "./albums foto/işimomaz.jpg"
+      },
+      {
+        "name": "İzmirli",
+        "file": "./music/izmirli.mp3",
+        "img": "./albums foto/izmirli.jpg"
+      },
+{
+        "name": "Kaçsam Gitsem",
+        "file": "./music/kaçsaögtsem.mp3",
+        "img": "./albums foto/kaçsaögtsem.jpg"
+      },
+      {
+        "name": "Kasaba",
+        "file": "./music/kasbaa.mp3",
+        "img": "./albums foto/kasbaa.jpg"
+      },
+      {
+        "name": "Kayıp",
+        "file": "./music/kayıp.mp3",
+        "img": "./albums foto/kayıp.jpg"
+      },
+      {
+        "name": "Kış Güneşi",
+        "file": "./music/kışgüneşi.mp3",
+        "img": "./albums foto/kışgüneşi.jpg"
+      },
+      {
+        "name": "Kıyamadım İkimize",
+        "file": "./music/kıyamadımikimezc.mp3",
+        "img": "./albums foto/kıyamadımikimezc.jpg"
+      },
+      {
+        "name": "Korkma Kalbim",
+        "file": "./music/korkmakalbim.mp3",
+        "img": "./albums foto/korkmakalbim.jpg"
+      },
+      {
+        "name": "Köle",
+        "file": "./music/köle.mp3",
+        "img": "./albums foto/köle.jpg"
+      },
+      {
+        "name": "Mevzu Derin",
+        "file": "./music/mevzuderin.mp3",
+        "img": "./albums foto/mevzuderin.jpg"
+      },
+      {
+        "name": "Misafir",
+        "file": "./music/misaifr.mp3",
+        "img": "./albums foto/misaifr.jpg"
+      },
+      {
+        "name": "Ne Farkeder",
+        "file": "./music/nefarkeder.mp3",
+        "img": "./albums foto/nefarkeder.jpg"
+      },
+      {
+        "name": "Saat 03.00",
+        "file": "./music/saat3.mp3",
+        "img": "./albums foto/saat3.jpg"
+      },
+      {
+        "name": "Sarışınım",
+        "file": "./music/sarısınım.mp3",
+        "img": "./albums foto/sarısınım.jpg"
+      },
+      {
+        "name": "Saygımdan",
+        "file": "./music/Saygımdan.mp3",
+        "img": "./albums foto/Saygımdan.jpg"
+      },
+      {
+        "name": "Sevdanın Son Vuruşu",
+        "file": "./music/sevdanınsınbru.mp3",
+        "img": "./albums foto/sevdanınsınbru.jpg"
+      },
+      {
+        "name": "Soktuğu Duruma Bak",
+        "file": "./music/doktugudurumavak.mp3",
+        "img": "./albums foto/doktugudurumavak.jpg"
+      },
+      {
+        "name": "Sor",
+        "file": "./music/Sor.mp3",
+        "img": "./albums foto/Sor.jpg"
+      },
+      {
+        "name": "Söz",
+        "file": "./music/Söz.mp3",
+        "img": "./albums foto/Söz.jpg"
+      },
+      {
+        "name": "Sükut-u Hayal",
+        "file": "./music/Hayal.mp3",
+        "img": "./albums foto/Hayal.jpg"
+      },
+      {
+        "name": "Taburcu",
+        "file": "./music/Taburcu.mp3",
+        "img": "./albums foto/Taburcu.jpg"
+      },
+      {
+        "name": "Taş",
+        "file": "./music/Taş.mp3",
+        "img": "./albums foto/Taş.jpg"
+      },
+      {
+        "name": "Tüh Tüh",
+        "file": "./music/Tüh.mp3",
+        "img": "./albums foto/Tüh.jpg"
+      },
+      {
+        "name": "Unuttun Mu Beni",
+        "file": "./music/unuttunmubeni.mp3",
+        "img": "./albums foto/unuttunmubeni.jpg"
+      },
+      {
+        "name": "Üzüleceksin",
+        "file": "./music/Üzüleceksin.mp3",
+        "img": "./albums foto/Üzüleceksin.jpg"
+      },
+      {
+        "name": "Üzülmedin Mi?",
+        "file": "./music/Üzülmedinmi.mp3",
+        "img": "./albums foto/Üzülmedinmi.jpg"
+      },
+      {
+        "name": "Yak",
+        "file": "./music/Yak.mp3",
+        "img": "./albums foto/Yak.jpg"
+      },
+      {
+        "name": "Yalan Dünya",
+        "file": "./music/yalandünya.mp3",
+        "img": "./albums foto/yalandünya.jpg"
+      },
+      {
+        "name": "Yalancı Şahidim",
+        "file": "./music/şahidm.mp3",
+        "img": "./albums foto/şahidm.jpg"
+      },
+      {
+        "name": "Yalnız Başına",
+        "file": "./music/yalnızbasına.mp3",
+        "img": "./albums foto/yalnızbasına.jpg"
+      },
+      {
+        "name": "Yangın Yeri",
+        "file": "./music/Yangınyeir.mp3",
+        "img": "./albums foto/Yangınyeir.jpg"
+      },
+      {
+        "name": "Yemin Ettim",
+        "file": "./music/Yemnetttm.mp3",
+        "img": "./albums foto/Yemnetttm.jpg"
+      },
+      {
+        "name": "Yeniden",
+        "file": "./music/Yeniden.mp3",
+        "img": "./albums foto/Yeniden.jpg"
+      },
+      {
+        "name": "Zalim",
+        "file": "./music/Zalim.mp3",
+        "img": "./albums foto/Zalim.jpg"
+      },
+        {
+        "name": "Duman",
+        "file": "./music/duman.mp3",
+        "img": "./albums foto/duman.jpg"
       }
+
+
+
+      
+
+
       
       
      
     ],
 
     [
-      {
-        "name": "Super Shy",
-        "file": "./music/shy.mp3",
-        "img": "./albums foto/shy.jpg"
-      },
+      
       {
         "name": "What is love?",
         "file": "./music/love.mp3",
