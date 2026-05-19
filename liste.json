@@ -833,6 +833,11 @@
         "name": "Duman",
         "file": "./music/duman.mp3",
         "img": "./albums foto/duman.jpg"
+      },
+        {
+        "name": "Anahtar",
+        "file": "./music/anahar3.mp3",
+        "img": "./albums foto/anahtar3.jpg"
       }
 
 
