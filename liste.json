@@ -273,7 +273,7 @@
         "img": "./albums foto/memors.jpg"
       },
        {
-        "name": "I Hate Everything About You",
+        "name": "IHate Everything AboutYou",
         "file": "./music/hate.mp3",
         "img": "./albums foto/hate.jpg"
       },
@@ -617,7 +617,7 @@
       {
         "name": "Hangimiz Tertemiz",
         "file": "./music/hangimztertmez.mp3",
-        "img": "./albums foto/hangimztertmez.jpg"
+        "img": "./albums foto/hangimztertmez.png"
       },
       {
         "name": "Delirme",
@@ -722,7 +722,7 @@
       {
         "name": "Saat 03.00",
         "file": "./music/saat3.mp3",
-        "img": "./albums foto/saat3.jpg"
+        "img": "./albums foto/saat3.gif"
       },
       {
         "name": "Sarışınım",
