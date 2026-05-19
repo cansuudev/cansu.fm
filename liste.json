@@ -876,7 +876,70 @@
         "name": "Spaghetti",
         "file": "./music/spa.mp3",
         "img": "./albums foto/spa.jpg"
+      },
+      {
+        "name": "AEAO",
+        "file": "./music/AEAO.mp3",
+        "img": "./albums foto/AEAO.jpg"
+      },
+      {
+        "name": "Cupid",
+        "file": "./music/Cupid.mp3",
+        "img": "./albums foto/Cupid.jpg"
+      },
+      {
+        "name": "Fame Is a Gun",
+        "file": "./music/fameısagun.mp3",
+        "img": "./albums foto/fameısagun.jpg"
+      },
+      {
+        "name": "I Don't Know",
+        "file": "./music/ıdontknoeew.mp3",
+        "img": "./albums foto/ıdontknoeew.jpg"
+      },
+      {
+        "name": "In The Rain",
+        "file": "./music/ıntheraın1.mp3",
+        "img": "./albums foto/ıntheraın1.jpg"
+      },
+      {
+        "name": "Scott and Zelda",
+        "file": "./music/scottandzelda.mp3",
+        "img": "./albums foto/scottandzelda.jpg"
+      },
+       {
+        "name": "Smart",
+        "file": "./music/smart.mp3",
+        "img": "./albums foto/smart.jpg"
+      },
+       {
+        "name": "Stateside",
+        "file": "./music/Stateside.mp3",
+        "img": "./albums foto/Stateside.jpg"
+      },
+       {
+        "name": "Super Shy",
+        "file": "./music/supershy.mp3",
+        "img": "./albums foto/supershy.jpg"
+      },
+       {
+        "name": "The Perfect Pair",
+        "file": "./music/perfectpair.mp3",
+        "img": "./albums foto/perfectpair.jpg"
+      },
+       {
+        "name": "WII PARTY",
+        "file": "./music/wııparty.mp3",
+        "img": "./albums foto/wııparty.jpg"
       }
+
+
+
+
+
+
+
+
     ],
 
     [
