@@ -1,0 +1,1036 @@
+{
+  "libraries": [
+    [
+      {
+        "name": "After Dark",
+        "file": "./music/mrkitty.mp3",
+        "img": "./albums foto/afterdarkicon.jpg"
+      },
+      {
+        "name": "505",
+        "file": "./music/505.mp3",
+        "img": "./albums foto/Favourite Worst Nightmare.jpg"
+      },
+      {
+        "name": "Headlock",
+        "file": "./music/headlock.mp3",
+        "img": "./albums foto/indir.jpg"
+      },
+      {
+        "name": "Did i tell u",
+        "file": "./music/did.mp3",
+        "img": "./albums foto/did.jpg"
+      },
+      {
+        "name": "Let It Happen",
+        "file": "./music/let.mp3",
+        "img": "./albums foto/let.jpg"
+      },
+      {
+        "name": "Creep",
+        "file": "./music/creep.mp3",
+        "img": "./albums foto/creep.jpg"
+      },
+      {
+        "name": "No Surprises",
+        "file": "./music/no.mp3",
+        "img": "./albums foto/no.jpg"
+      },
+      {
+        "name": "Mary On A Cross",
+        "file": "./music/mary.mp3",
+        "img": "./albums foto/mary.jpg"
+      },
+      {
+        "name": "All The Thing She Said",
+        "file": "./music/said.mp3",
+        "img": "./albums foto/said.jpg"
+      },
+      {
+        "name": "Arabella",
+        "file": "./music/arab.mp3",
+        "img": "./albums foto/arab.jpg"
+      },
+      {
+        "name": "Hayloft",
+        "file": "./music/hay.mp3",
+        "img": "./albums foto/hay.jpg"
+      },
+      {
+        "name": "Wrong Side Out",
+        "file": "./music/out.mp3",
+        "img": "./albums foto/out.jpg"
+      },
+      {
+        "name": "Sleep Well",
+        "file": "./music/po.mp3",
+        "img": "./albums foto/po.jpg"
+      },
+      {
+        "name": "So Far So Fake",
+        "file": "./music/fake.mp3",
+        "img": "./albums foto/fake.jpg"
+      },
+      {
+        "name": "Going Under",
+        "file": "./music/under.mp3",
+        "img": "./albums foto/under.jpg"
+      },
+      {
+        "name": "Back On 74",
+        "file": "./music/onn.mp3",
+        "img": "./albums foto/onn.jpg"
+      },
+
+      {
+        "name": "Ghosting",
+        "file": "./music/gh.mp3",
+        "img": "./albums foto/gh.jpg"
+      },
+      {
+        "name": "R U Mine?",
+        "file": "./music/r.mp3",
+        "img": "./albums foto/r.jpg"
+      },
+      {
+        "name": "Babooshka",
+        "file": "./music/ba.mp3",
+        "img": "./albums foto/ba.jpg"
+      },
+      {
+        "name": "Moment",
+        "file": "./music/moment.mp3",
+        "img": "./albums foto/moment.jpg"
+      },
+      {
+        "name": "Who Is She",
+        "file": "./music/isf.mp3",
+        "img": "./albums foto/isf.jpg"
+      },
+      {
+        "name": "Mayonaka No Door",
+        "file": "./music/mayo.mp3",
+        "img": "./albums foto/mayo.jpg"
+      },
+      {
+        "name": "King For A Day",
+        "file": "./music/fora.mp3",
+        "img": "./albums foto/fora.jpg"
+      },
+      {
+        "name": "I'll Do It",
+        "file": "./music/ıll.mp3",
+        "img": "./albums foto/ıll.jpg"
+      },
+      {
+        "name": "Hynotised",
+        "file": "./music/colp.mp3",
+        "img": "./albums foto/colp.jpg"
+      },
+      {
+        "name": "Maria",
+        "file": "./music/mariaa.mp3",
+        "img": "./albums foto/mariaa.jpg"
+      },
+      {
+        "name": "Goodbye",
+        "file": "./music/goodbye.mp3",
+        "img": "./albums foto/goodbye.jpg"
+      },
+      {
+        "name": "See You Again",
+        "file": "./music/youagain.mp3",
+        "img": "./albums foto/youagain.jpg"
+      },
+       {
+        "name": "В последний раз",
+        "file": "./music/sonkez.mp3",
+        "img": "./albums foto/sonkez.jpg"
+      },
+       {
+        "name": "Alors on Dance",
+        "file": "./music/alors.mp3",
+        "img": "./albums foto/alors.jpg"
+      },
+      {
+        "name": "Love Story",
+        "file": "./music/loves.mp3",
+        "img": "./albums foto/loves.jpg"
+      },
+      {
+        "name": "King of Nothing",
+        "file": "./music/kingg.mp3",
+        "img": "./albums foto/kingg.jpg"
+      },
+      {
+        "name": "Knee Socks",
+        "file": "./music/knee.mp3",
+        "img": "./albums foto/knee.jpg"
+      },
+      {
+        "name": "Lethargy",
+        "file": "./music/letha.mp3",
+        "img": "./albums foto/letha.jpg"
+      },
+      {
+        "name": "No Wind Resistance!",
+        "file": "./music/nowind.mp3",
+        "img": "./albums foto/nowind.jpg"
+      },
+      {
+        "name": "Pressure",
+        "file": "./music/pressurer.mp3",
+        "img": "./albums foto/pressurer.jpg"
+      },
+      {
+        "name": "RUNRUNRUN",
+        "file": "./music/RUN.mp3",
+        "img": "./albums foto/RUN.jpg"
+      },
+      {
+        "name": "Square One",
+        "file": "./music/sq1.mp3",
+        "img": "./albums foto/sq1.jpg"
+      },
+      {
+        "name": "The Winner Takes It All",
+        "file": "./music/the8.mp3",
+        "img": "./albums foto/the8.jpg"
+      },
+      {
+        "name": "Undisclosed Desires",
+        "file": "./music/desir3.mp3",
+        "img": "./albums foto/desir3.jpg"
+      },
+      {
+        "name": "A Match Into Water",
+        "file": "./music/amatach56.mp3",
+        "img": "./albums foto/amatach56.jpg"
+      },
+        {
+        "name": "Angst",
+        "file": "./music/angstf.mp3",
+        "img": "./albums foto/angstf.jpg"
+      },
+         {
+        "name": "bad idea",
+        "file": "./music/badidea.mp3",
+        "img": "./albums foto/badidea.jpg"
+      },
+       {
+        "name": "Body",
+        "file": "./music/body6.mp3",
+        "img": "./albums foto/body6.jpg"
+      },
+       {
+        "name": "Bring Me To Life",
+        "file": "./music/tolide4.mp3",
+        "img": "./albums foto/tolide4.jpg"
+      },
+       {
+        "name": "Custer",
+        "file": "./music/custer.mp3",
+        "img": "./albums foto/custer.jpg"
+      },
+       {
+        "name": "Emo Boy",
+        "file": "./music/emo44.mp3",
+        "img": "./albums foto/emo44.jpg"
+      },
+      {
+        "name": "Fluorescent Adolescent",
+        "file": "./music/flour5.mp3",
+        "img": "./albums foto/flour5.jpg"
+      },
+      {
+        "name": "Genesis",
+        "file": "./music/genesis3.mp3",
+        "img": "./albums foto/genesis3.jpg"
+      },
+      {
+        "name": "Hayloft II",
+        "file": "./music/Hayloft2.mp3",
+        "img": "./albums foto/Hayloft2.jpg"
+      },
+      {
+        "name": "Heavy Love",
+        "file": "./music/heavy88.mp3",
+        "img": "./albums foto/heavy88.jpg"
+      },
+      {
+        "name": "Hidden In The Sand",
+        "file": "./music/body69.mp3",
+        "img": "./albums foto/body69.jpg"
+      },
+      {
+        "name": "Horns",
+        "file": "./music/horns.mp3",
+        "img": "./albums foto/horns.jpg"
+      },
+       {
+        "name": "House of Memories",
+        "file": "./music/memors.mp3",
+        "img": "./albums foto/memors.jpg"
+      },
+       {
+        "name": "IHate Everything AboutYou",
+        "file": "./music/hate.mp3",
+        "img": "./albums foto/hate.jpg"
+      },
+       {
+        "name": "I Wanna Be Yours",
+        "file": "./music/beyourd.mp3",
+        "img": "./albums foto/beyourd.jpg"
+      },
+       {
+        "name": "In My Room",
+        "file": "./music/rooms.mp3",
+        "img": "./albums foto/rooms.jpg"
+      },
+      {
+        "name": "In The End",
+        "file": "./music/ınthe.mp3",
+        "img": "./albums foto/ınthe.jpg"
+      },
+      {
+        "name": "Join Me",
+        "file": "./music/joinme1.mp3",
+        "img": "./albums foto/joinme1.jpg"
+      },
+      {
+        "name": "Les",
+        "file": "./music/les.mp3",
+        "img": "./albums foto/les.jpg"
+      },
+      {
+        "name": "Little Dark Age",
+        "file": "./music/darkage.mp3",
+        "img": "./albums foto/darkage.jpg"
+      },
+      {
+        "name": "Me and Your Mama",
+        "file": "./music/urmama.mp3",
+        "img": "./albums foto/urmama.jpg"
+      },
+      {
+        "name": "Meet Me At Our Spot",
+        "file": "./music/meetmeaturspot.mp3",
+        "img": "./albums foto/meetmeaturspot.jpg"
+      },
+      {
+        "name": "My Ordinary Life",
+        "file": "./music/myordinarylife.mp3",
+        "img": "./albums foto/myordinarylife.jpg"
+      },
+      {
+        "name": "My Own Summer",
+        "file": "./music/myownsummer.mp3",
+        "img": "./albums foto/myownsummer.jpg"
+      },
+      {
+        "name": "Numb",
+        "file": "./music/numb.mp3",
+        "img": "./albums foto/numb.jpg"
+      },
+      {
+        "name": "Oh Ana",
+        "file": "./music/OHANA.mp3",
+        "img": "./albums foto/OHANA.jpg"
+      },
+      {
+        "name": "PUNK TACTİCS",
+        "file": "./music/PUNKT.mp3",
+        "img": "./albums foto/PUNKT.jpg"
+      },
+      {
+        "name": "Radioactive",
+        "file": "./music/radioac.mp3",
+        "img": "./albums foto/radioac.jpg"
+      },
+      {
+        "name": "Rape Me",
+        "file": "./music/ramepe.mp3",
+        "img": "./albums foto/ramepe.jpg"
+      },
+      {
+        "name": "RICHMAN",
+        "file": "./music/RICHMAN.mp3",
+        "img": "./albums foto/RICHMAN.jpg"
+      },
+      {
+        "name": "Runway Walk",
+        "file": "./music/runwayf.mp3",
+        "img": "./albums foto/runwayf.jpg"
+      },
+      {
+        "name": "SPIT IN MY FACE!",
+        "file": "./music/SPİTIN.mp3",
+        "img": "./albums foto/SPİTIN.jpg"
+      },
+      {
+        "name": "Sunday",
+        "file": "./music/sunday.mp3",
+        "img": "./albums foto/sunday.jpg"
+      },
+      {
+        "name": "Transparents Soul",
+        "file": "./music/soulS.mp3",
+        "img": "./albums foto/soulS.jpg"
+      },
+      {
+        "name": "The Devil In I",
+        "file": "./music/devild.mp3",
+        "img": "./albums foto/devild.jpg"
+      },
+      {
+        "name": "The Unforgiven",
+        "file": "./music/forgven.mp3",
+        "img": "./albums foto/forgven.jpg"
+      },
+      {
+        "name": "Verbatim",
+        "file": "./music/Verbat.mp3",
+        "img": "./albums foto/Verbat.jpg"
+      },
+      {
+        "name": "Wicked Game",
+        "file": "./music/wickedgav.mp3",
+        "img": "./albums foto/wickedgav.jpg"
+      },
+      {
+        "name": "Worry",
+        "file": "./music/sunday5.mp3",
+        "img": "./albums foto/sunday5.jpg"
+      }
+
+
+
+
+   
+   
+
+      
+
+      
+
+      
+    ],
+
+    [
+      {
+        "name": "Melekler",
+        "file": "./music/melek.mp3",
+        "img": "./albums foto/melek.jpg"
+      },
+      {
+        "name": "Güneye Giderken",
+        "file": "./music/güneye.mp3",
+        "img": "./albums foto/güneye.jpg"
+      },
+      {
+        "name": "Aşk Durdukça",
+        "file": "./music/dur.mp3",
+        "img": "./albums foto/dur.jpg"
+      },
+      {
+        "name": "Unutulmaz",
+        "file": "./music/unutulmaz.mp3",
+        "img": "./albums foto/unutulmaz.jpg"
+      },
+      {
+        "name": "Mevsimler Geçerken",
+        "file": "./music/mevsim.mp3",
+        "img": "./albums foto/mevsim.jpg"
+      },
+      {
+        "name": "Dön Ne Olur",
+        "file": "./music/dönne.mp3",
+        "img": "./albums foto/dönne.jpg"
+      },
+
+      {
+        "name": "Anlayamazsın",
+        "file": "./music/anlayamazsın.mp3",
+        "img": "./albums foto/anlayamazsın.jpg"
+      },
+      {
+        "name": "Hastalıkta Sağlıkta",
+        "file": "./music/hastalıkta.mp3",
+        "img": "./albums foto/hastalıkta.jpg"
+      },
+      {
+        "name": "Bunu Sana Demiştim",
+        "file": "./music/bunu.mp3",
+        "img": "./albums foto/bunu.jpg"
+      },
+      {
+        "name": "Ben Seni Arayamam",
+        "file": "./music/arayamam.mp3",
+        "img": "./albums foto/arayamam.jpg"
+      },
+      {
+        "name": "Komşu Kızı",
+        "file": "./music/kızı.mp3",
+        "img": "./albums foto/kızı.jpg"
+      },
+      {
+        "name": "Yanmış İçinden",
+        "file": "./music/içinden.mp3",
+        "img": "./albums foto/içinden.jpg"
+      },
+      {
+        "name": "Deli",
+        "file": "./music/deli.mp3",
+        "img": "./albums foto/deli.jpg"
+      },
+
+      {
+        "name": "Sen Ağlama",
+        "file": "./music/ağlama.mp3",
+        "img": "./albums foto/ağlama.jpg"
+      },
+      {
+        "name": "Alkışlar",
+        "file": "./music/alkış.mp3",
+        "img": "./albums foto/alkış.jpg"
+      },
+      {
+        "name": "Güm Güm",
+        "file": "./music/güm.mp3",
+        "img": "./albums foto/güm.jpg"
+      },
+      {
+        "name": "Sevmek Yüzünden",
+        "file": "./music/sevmek.mp3",
+        "img": "./albums foto/sevmek.jpg"
+      },
+      {
+        "name": "Ben Bazen",
+        "file": "./music/benbazen.mp3",
+        "img": "./albums foto/benbazen.jpg"
+      },
+       {
+        "name": "Ortak",
+        "file": "./music/ortak.mp3",
+        "img": "./albums foto/ortak.jpg"
+      },
+       {
+        "name": "Melekler(Sİbel)",
+        "file": "./music/meleek.mp3",
+        "img": "./albums foto/meleek.jpg"
+      },
+      {
+        "name": "Acele Etme",
+        "file": "./music/aceleetme.mp3",
+        "img": "./albums foto/aceleetme.jpg"
+      },
+      {
+        "name": "Acı Veriyor",
+        "file": "./music/acıveriyr.mp3",
+        "img": "./albums foto/acıveriyr.jpg"
+      },
+      {
+        "name": "Acımayacak",
+        "file": "./music/acımayacak.mp3",
+        "img": "./albums foto/acımayacak.jpg"
+      },
+      {
+        "name": "Aman",
+        "file": "./music/aman.mp3",
+        "img": "./albums foto/aman.jpg"
+      },
+      {
+        "name": "Arada Bir",
+        "file": "./music/aradabir.mp3",
+        "img": "./albums foto/aradabir.jpg"
+      },
+      {
+        "name": "Aşk-ı Virane",
+        "file": "./music/viranee.mp3",
+        "img": "./albums foto/viranee.jpg"
+      },
+      {
+        "name": "Aşkın Ateşi",
+        "file": "./music/akınatesv.mp3",
+        "img": "./albums foto/akınatesv.jpg"
+      },
+      {
+        "name": "Ben Hala Rüyada",
+        "file": "./music/halarüuada.mp3",
+        "img": "./albums foto/halarüuada.jpg"
+      },
+      {
+        "name": "Bakıcaz",
+        "file": "./music/bakıcx.mp3",
+        "img": "./albums foto/bakıcx.jpg"
+      },
+      {
+        "name": "Baksana Talihe",
+        "file": "./music/baksanatalig.mp3",
+        "img": "./albums foto/baksanatalig.jpg"
+      },
+       {
+        "name": "Bana Anlat",
+        "file": "./music/banaankat.mp3",
+        "img": "./albums foto/banaankat.jpg"
+      },
+       {
+        "name": "Ben Bilmem",
+        "file": "./music/benbilmem.mp3",
+        "img": "./albums foto/benbilmem.jpg"
+      },
+       {
+        "name": "Benden Sonra",
+        "file": "./music/BendenSonra.mp3",
+        "img": "./albums foto/BendenSonra.jpg"
+      },
+       {
+        "name": "Bir Bakmışsın",
+        "file": "./music/birbakmıssın.mp3",
+        "img": "./albums foto/birbakmıssın.jpg"
+      },
+       {
+        "name": "Bir Güzellik Yap",
+        "file": "./music/güzlelik.mp3",
+        "img": "./albums foto/güzlelik.jpg"
+      },
+       {
+        "name": "Boş Bardak",
+        "file": "./music/boşbardak.mp3",
+        "img": "./albums foto/boşbardak.jpg"
+      },
+       {
+        "name": "Bu Aralar",
+        "file": "./music/buaralar.mp3",
+        "img": "./albums foto/buaralar.jpg"
+      },
+       {
+        "name": "Bu Aşkın Katili Sensin",
+        "file": "./music/katilisisensn.mp3",
+        "img": "./albums foto/katilisisensn.jpg"
+      },
+       {
+        "name": "Buz",
+        "file": "./music/buz.mp3",
+        "img": "./albums foto/buz.jpg"
+      },
+      {
+        "name": "Hangimiz Tertemiz",
+        "file": "./music/hangimztertmez.mp3",
+        "img": "./albums foto/hangimztertmez.png"
+      },
+      {
+        "name": "Delirme",
+        "file": "./music/deelirme.mp3",
+        "img": "./albums foto/deelirme.jpg"
+      },
+      {
+        "name": "Derine",
+        "file": "./music/derine.mp3",
+        "img": "./albums foto/derine.jpg"
+      },
+      {
+        "name": "Gel De Uyu",
+        "file": "./music/geldeuyu.mp3",
+        "img": "./albums foto/geldeuyu.jpg"
+      },
+      {
+        "name": "Gel",
+        "file": "./music/gel7.mp3",
+        "img": "./albums foto/gel7.jpg"
+      },
+      {
+        "name": "Gün Ağardı",
+        "file": "./music/günaagardı.mp3",
+        "img": "./albums foto/günaagardı.jpg"
+      },
+      {
+        "name": "Haberin Olsun",
+        "file": "./music/habernolsn.mp3",
+        "img": "./albums foto/habernolsn.jpg"
+      },
+      {
+        "name": "Her Şey Sensin",
+        "file": "./music/herşeysensn.mp3",
+        "img": "./albums foto/herşeysensn.jpg"
+      },
+      {
+        "name": "İstiklal",
+        "file": "./music/istklal.mp3",
+        "img": "./albums foto/istklal.jpg"
+      },
+      {
+        "name": "İşim Olmaz",
+        "file": "./music/işimomaz.mp3",
+        "img": "./albums foto/işimomaz.jpg"
+      },
+      {
+        "name": "İzmirli",
+        "file": "./music/izmirli.mp3",
+        "img": "./albums foto/izmirli.jpg"
+      },
+{
+        "name": "Kaçsam Gitsem",
+        "file": "./music/kaçsaögtsem.mp3",
+        "img": "./albums foto/kaçsaögtsem.jpg"
+      },
+      {
+        "name": "Kasaba",
+        "file": "./music/kasbaa.mp3",
+        "img": "./albums foto/kasbaa.jpg"
+      },
+      {
+        "name": "Kayıp",
+        "file": "./music/kayıp.mp3",
+        "img": "./albums foto/kayıp.jpg"
+      },
+      {
+        "name": "Kış Güneşi",
+        "file": "./music/kışgüneşi.mp3",
+        "img": "./albums foto/kışgüneşi.jpg"
+      },
+      {
+        "name": "Kıyamadım İkimize",
+        "file": "./music/kıyamadımikimezc.mp3",
+        "img": "./albums foto/kıyamadımikimezc.jpg"
+      },
+      {
+        "name": "Korkma Kalbim",
+        "file": "./music/korkmakalbim.mp3",
+        "img": "./albums foto/korkmakalbim.jpg"
+      },
+      {
+        "name": "Köle",
+        "file": "./music/köle.mp3",
+        "img": "./albums foto/köle.jpg"
+      },
+      {
+        "name": "Mevzu Derin",
+        "file": "./music/mevzuderin.mp3",
+        "img": "./albums foto/mevzuderin.jpg"
+      },
+      {
+        "name": "Misafir",
+        "file": "./music/misaifr.mp3",
+        "img": "./albums foto/misaifr.jpg"
+      },
+      {
+        "name": "Ne Farkeder",
+        "file": "./music/nefarkeder.mp3",
+        "img": "./albums foto/nefarkeder.jpg"
+      },
+      {
+        "name": "Saat 03.00",
+        "file": "./music/saat3.mp3",
+        "img": "./albums foto/saat3.gif"
+      },
+      {
+        "name": "Sarışınım",
+        "file": "./music/sarısınım.mp3",
+        "img": "./albums foto/sarısınım.jpg"
+      },
+      {
+        "name": "Saygımdan",
+        "file": "./music/Saygımdan.mp3",
+        "img": "./albums foto/Saygımdan.jpg"
+      },
+      {
+        "name": "Sevdanın Son Vuruşu",
+        "file": "./music/sevdanınsınbru.mp3",
+        "img": "./albums foto/sevdanınsınbru.jpg"
+      },
+      {
+        "name": "Soktuğu Duruma Bak",
+        "file": "./music/doktugudurumavak.mp3",
+        "img": "./albums foto/doktugudurumavak.jpg"
+      },
+      {
+        "name": "Sor",
+        "file": "./music/Sor.mp3",
+        "img": "./albums foto/Sor.jpg"
+      },
+      {
+        "name": "Söz",
+        "file": "./music/Söz.mp3",
+        "img": "./albums foto/Söz.jpg"
+      },
+      {
+        "name": "Sükut-u Hayal",
+        "file": "./music/Hayal.mp3",
+        "img": "./albums foto/Hayal.jpg"
+      },
+      {
+        "name": "Taburcu",
+        "file": "./music/Taburcu.mp3",
+        "img": "./albums foto/Taburcu.jpg"
+      },
+      {
+        "name": "Taş",
+        "file": "./music/Taş.mp3",
+        "img": "./albums foto/Taş.jpg"
+      },
+      {
+        "name": "Tüh Tüh",
+        "file": "./music/Tüh.mp3",
+        "img": "./albums foto/Tüh.jpg"
+      },
+      {
+        "name": "Unuttun Mu Beni",
+        "file": "./music/unuttunmubeni.mp3",
+        "img": "./albums foto/unuttunmubeni.jpg"
+      },
+      {
+        "name": "Üzüleceksin",
+        "file": "./music/Üzüleceksin.mp3",
+        "img": "./albums foto/Üzüleceksin.jpg"
+      },
+      {
+        "name": "Üzülmedin Mi?",
+        "file": "./music/Üzülmedinmi.mp3",
+        "img": "./albums foto/Üzülmedinmi.jpg"
+      },
+      {
+        "name": "Yak",
+        "file": "./music/Yak.mp3",
+        "img": "./albums foto/Yak.jpg"
+      },
+      {
+        "name": "Yalan Dünya",
+        "file": "./music/yalandünya.mp3",
+        "img": "./albums foto/yalandünya.jpg"
+      },
+      {
+        "name": "Yalancı Şahidim",
+        "file": "./music/şahidm.mp3",
+        "img": "./albums foto/şahidm.jpg"
+      },
+      {
+        "name": "Yalnız Başına",
+        "file": "./music/yalnızbasına.mp3",
+        "img": "./albums foto/yalnızbasına.jpg"
+      },
+      {
+        "name": "Yangın Yeri",
+        "file": "./music/Yangınyeir.mp3",
+        "img": "./albums foto/Yangınyeir.jpg"
+      },
+      {
+        "name": "Yemin Ettim",
+        "file": "./music/Yemnetttm.mp3",
+        "img": "./albums foto/Yemnetttm.jpg"
+      },
+      {
+        "name": "Yeniden",
+        "file": "./music/Yeniden.mp3",
+        "img": "./albums foto/Yeniden.jpg"
+      },
+      {
+        "name": "Zalim",
+        "file": "./music/Zalim.mp3",
+        "img": "./albums foto/Zalim.jpg"
+      },
+        {
+        "name": "Duman",
+        "file": "./music/duman.mp3",
+        "img": "./albums foto/duman.jpg"
+      }
+
+
+
+      
+
+
+      
+      
+     
+    ],
+
+    [
+      
+      {
+        "name": "What is love?",
+        "file": "./music/love.mp3",
+        "img": "./albums foto/love.jpg"
+      },
+      {
+        "name": "The Feels",
+        "file": "./music/feel.mp3",
+        "img": "./albums foto/feel.jpg"
+      },
+      {
+        "name": "New Jeans",
+        "file": "./music/new.mp3",
+        "img": "./albums foto/new.jpg"
+      },
+      {
+        "name": "Attention",
+        "file": "./music/atten.mp3",
+        "img": "./albums foto/atten.jpg"
+      },
+      {
+        "name": "Magnetic",
+        "file": "./music/mag.mp3",
+        "img": "./albums foto/mag.jpg"
+      },
+      {
+        "name": "Spaghetti",
+        "file": "./music/spa.mp3",
+        "img": "./albums foto/spa.jpg"
+      },
+      {
+        "name": "AEAO",
+        "file": "./music/AEAO.mp3",
+        "img": "./albums foto/AEAO.jpg"
+      },
+      {
+        "name": "Cupid",
+        "file": "./music/Cupid.mp3",
+        "img": "./albums foto/Cupid.jpg"
+      },
+      {
+        "name": "Fame Is a Gun",
+        "file": "./music/fameısagun.mp3",
+        "img": "./albums foto/fameısagun.jpg"
+      },
+      {
+        "name": "I Don't Know",
+        "file": "./music/ıdontknoeew.mp3",
+        "img": "./albums foto/ıdontknoeew.jpg"
+      },
+      {
+        "name": "In The Rain",
+        "file": "./music/ıntheraın1.mp3",
+        "img": "./albums foto/ıntheraın1.jpg"
+      },
+      {
+        "name": "Scott and Zelda",
+        "file": "./music/scottandzelda.mp3",
+        "img": "./albums foto/scottandzelda.jpg"
+      },
+       {
+        "name": "Smart",
+        "file": "./music/smart.mp3",
+        "img": "./albums foto/smart.jpg"
+      },
+       {
+        "name": "Stateside",
+        "file": "./music/Stateside.mp3",
+        "img": "./albums foto/Stateside.jpg"
+      },
+       {
+        "name": "Super Shy",
+        "file": "./music/supershy.mp3",
+        "img": "./albums foto/supershy.jpg"
+      },
+       {
+        "name": "The Perfect Pair",
+        "file": "./music/perfectpair.mp3",
+        "img": "./albums foto/perfectpair.jpg"
+      },
+       {
+        "name": "WII PARTY",
+        "file": "./music/wııparty.mp3",
+        "img": "./albums foto/wııparty.jpg"
+      }
+
+
+
+
+
+
+
+
+    ],
+
+    [
+      {
+        "name": "Yıllar",
+        "file": "./music/yıllar.mp3",
+        "img": "./albums foto/yıllar.jpg"
+      },
+      {
+        "name": "Yabani",
+        "file": "./music/yabani.mp3",
+        "img": "./albums foto/yabani.jpg"
+      },
+      {
+        "name": "Yok Yalan Deme",
+        "file": "./music/yalandeme.mp3",
+        "img": "./albums foto/yalandeme.jpg"
+      },
+      {
+        "name": "Kalpten Sabıkalı",
+        "file": "./music/sabıka.mp3",
+        "img": "./albums foto/sabıka.jpg"
+      },
+      {
+        "name": "Kim Ayırdı Sevenleri",
+        "file": "./music/kimm.mp3",
+        "img": "./albums foto/kimm.jpg"
+      },
+      {
+        "name": "Gülü Soldurmam",
+        "file": "./music/gül.mp3",
+        "img": "./albums foto/gül.jpg"
+      }
+    ],
+
+    [
+      {
+        "name": "Yin Yang",
+        "file": "./music/ying.mp3",
+        "img": "./albums foto/ying.jpg"
+      },
+      {
+        "name": "Bitmiyor",
+        "file": "./music/bitt.mp3",
+        "img": "./albums foto/bitt.jpg"
+      },
+      {
+        "name": "Ölümsüz",
+        "file": "./music/ölümsüz.mp3",
+        "img": "./albums foto/ölümsüz.jpg"
+      },
+      {
+        "name": "Anadolu",
+        "file": "./music/anadolu.mp3",
+        "img": "./albums foto/anadolu.jpg"
+      },
+      {
+        "name": "16-24",
+        "file": "./music/16.mp3",
+        "img": "./albums foto/16.jpg"
+      },
+      {
+        "name": "Makavelli",
+        "file": "./music/makavelli.mp3",
+        "img": "./albums foto/makavelli.jpg"
+      },
+      {
+        "name": "Cennet",
+        "file": "./music/cene.mp3",
+        "img": "./albums foto/cene.jpg"
+      },
+      {
+        "name": "Nereden",
+        "file": "./music/eree.mp3",
+        "img": "./albums foto/eree.jpg"
+      },
+      {
+        "name": "Bellydance",
+        "file": "./music/dan.mp3",
+        "img": "./albums foto/dan.jpg"
+      },
+      {
+        "name": "Yenilmem",
+        "file": "./music/mem.mp3",
+        "img": "./albums foto/mem.jpg"
+      },
+       {
+        "name": "PvG",
+        "file": "./music/pvg.mp3",
+        "img": "./albums foto/pvg.jpg"
+      }
+    ]
+  ]
+}
