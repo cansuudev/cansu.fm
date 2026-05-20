@@ -838,8 +838,13 @@
         "name": "Anahtar",
         "file": "./music/anahtar3.mp3",
         "img": "./albums foto/anahtar3.jpg"
+      },
+     {
+        "name": "Damla Damla",
+        "file": "./music/damladamla.mp3",
+        "img": "./albums foto/damladamla.jpg"
       }
-
+   
 
 
       
@@ -1122,6 +1127,56 @@
         "name": "Yüzünü Göremem",
         "file": "./music/yüzünügöremem.mp3",
         "img": "./albums foto/yüzünügöremem.jpg"
+      },
+      {
+        "name": "Bir Teselli Ver",
+        "file": "./music/birteselliver1.mp3",
+        "img": "./albums foto/birteselliver1.jpg"
+      },
+      {
+        "name": "Büklüm Büklüm",
+        "file": "./music/Büklüm.mp3",
+        "img": "./albums foto/Büklüm.jpg"
+      },
+      {
+        "name": "Dönsen Bile",
+        "file": "./music/dösenbile3.mp3",
+        "img": "./albums foto/dösenbile3.jpg"
+      },
+      {
+        "name": "Duydum Ki Unutmuşsun",
+        "file": "./music/duydumkiunutmussun.mp3",
+        "img": "./albums foto/duydumkiunutmussun.jpg"
+      },
+      {
+        "name": "Gurbet",
+        "file": "./music/Gurbet.mp3",
+        "img": "./albums foto/Gurbet.jpg"
+      },
+      {
+        "name": "Gurbette Sevgilim",
+        "file": "./music/gurbettesevgilim.mp3",
+        "img": "./albums foto/gurbettesevgilim.jpg"
+      },
+      {
+        "name": "İlk ve Son Aşkım Sen Olacaksın",
+        "file": "./music/iilkveaşkımsenolacaksın.mp3",
+        "img": "./albums foto/iilkveaşkımsenolacaksın.jpg"
+      },
+      {
+        "name": "İşte Öyle Bir Şey",
+        "file": "./music/işteöylebirşey.mp3",
+        "img": "./albums foto/işteöylebirşey.jpg"
+      },
+      {
+        "name": "Neredeysen",
+        "file": "./music/Neredeysen.mp3",
+        "img": "./albums foto/Neredeysen.jpg"
+      },
+        {
+        "name": "Yalnızım Ben",
+        "file": "./music/yalnızımben.mp3",
+        "img": "./albums foto/yalnızımben.jpg"
       }
       
 
