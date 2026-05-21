@@ -401,7 +401,343 @@
         "name": "Worry",
         "file": "./music/sunday5.mp3",
         "img": "./albums foto/sunday5.jpg"
+      },
+{
+        "name": "Afterlife",
+        "file": "./music/aftertlief.mp3",
+        "img": "./albums foto/aftertlief.jpg"
+      },
+      {
+        "name": "Anarchist",
+        "file": "./music/anarchist2.mp3",
+        "img": "./albums foto/anarchist2.jpg"
+      },
+      {
+        "name": "Arcadia",
+        "file": "./music/arcadiaa.mp3",
+        "img": "./albums foto/arcadiaa.jpg"
+      },
+      {
+        "name": "Beautiful Drama",
+        "file": "./music/beautifuldrama.mp3",
+        "img": "./albums foto/beautifuldrama.jpg"
+      },
+      {
+        "name": "Believe",
+        "file": "./music/believe1.mp3",
+        "img": "./albums foto/believe1.jpg"
+      },
+      {
+        "name": "Blood In The Cut",
+        "file": "./music/bloodınthecutt.mp3",
+        "img": "./albums foto/bloodınthecutt.jpg"
+      },
+      {
+        "name": "Break In ",
+        "file": "./music/breakın.mp3",
+        "img": "./albums foto/breakın.jpg"
+      },
+      {
+        "name": "Burning Alive",
+        "file": "./music/burningalive.mp3",
+        "img": "./albums foto/burningalive.jpg"
+      },
+      {
+        "name": "Bury Me Low",
+        "file": "./music/burymelow.mp3",
+        "img": "./albums foto/burymelow.jpg"
+      },
+      {
+        "name": "Church",
+        "file": "./music/Church.mp3",
+        "img": "./albums foto/Church.jpg"
+      },
+      {
+        "name": "Collide",
+        "file": "./music/Collide.mp3",
+        "img": "./albums foto/Collide.jpg"
+      },
+      {
+        "name": "Control",
+        "file": "./music/Control.mp3",
+        "img": "./albums foto/Control.jpg"
+      },
+      {
+        "name": "Dead",
+        "file": "./music/Dead.mp3",
+        "img": "./albums foto/Dead.jpg"
+      },
+      {
+        "name": "Death and All His Friends",
+        "file": "./music/deathandallhisfriends.mp3",
+        "img": "./albums foto/deathandallhisfriends.jpg"
+      },
+      {
+        "name": "Deep End",
+        "file": "./music/deepend.mp3",
+        "img": "./albums foto/deepend.jpg"
+      },
+      {
+        "name": "Desire",
+        "file": "./music/Desire.mp3",
+        "img": "./albums foto/Desire.jpg"
+      },
+      {
+        "name": "Destroy Yourself",
+        "file": "./music/destroyyourself.mp3",
+        "img": "./albums foto/destroyyourself.jpg"
+      },
+      {
+        "name": "Devil Devil",
+        "file": "./music/Devildevil.mp3",
+        "img": "./albums foto/Devildevil.jpg"
+      },
+      {
+        "name": "Dpn't Let Me Down",
+        "file": "./music/dontletmedown.mp3",
+        "img": "./albums foto/dontletmedown.jpg"
+      },
+      {
+        "name": "Fire",
+        "file": "./music/Fire.mp3",
+        "img": "./albums foto/Fire.jpg"
+      },
+      {
+        "name": "Fun",
+        "file": "./music/Fun.mp3",
+        "img": "./albums foto/Fun.jpg"
+      },
+      {
+        "name": "Giver",
+        "file": "./music/Giver.mp3",
+        "img": "./albums foto/Giver.jpg"
+      },
+      {
+        "name": "Gone",
+        "file": "./music/Gone.mp3",
+        "img": "./albums foto/Gone.jpg"
+      },
+      {
+        "name": "Good Grief",
+        "file": "./music/goodgrief.mp3",
+        "img": "./albums foto/goodgrief.jpg"
+      },
+      {
+        "name": "Grip",
+        "file": "./music/Grip.mp3",
+        "img": "./albums foto/Grip.jpg"
+      },
+       {
+        "name": "Guns and Roses",
+        "file": "./music/gunandroses.mp3",
+        "img": "./albums foto/gunandroses.jpg"
+      },
+       {
+        "name": "Head Above Water",
+        "file": "./music/headabovewater.mp3",
+        "img": "./albums foto/headabovewater.jpg"
+      },
+       {
+        "name": "Heroin",
+        "file": "./music/Heroin.mp3",
+        "img": "./albums foto/Heroin.jpg"
+      }, 
+      {
+        "name": "Hold Me Down",
+        "file": "./music/holdmedown.mp3",
+        "img": "./albums foto/holdmedown.jpg"
+      },
+       {
+        "name": "Hurricane",
+        "file": "./music/hurricane.mp3",
+        "img": "./albums foto/hurricane.jpg"
+      },
+       {
+        "name": "Hymn For The Missing",
+        "file": "./music/hymnfothe.mp3",
+        "img": "./albums foto/hymnfothe.jpg"
+      },
+       {
+        "name": "I Don't Care",
+        "file": "./music/ıdontcare.mp3",
+        "img": "./albums foto/ıdontcare.jpg"
+      },
+       {
+        "name": "I Think I'm OKAY",
+        "file": "./music/okay.mp3",
+        "img": "./albums foto/okay.jpg"
+      },
+       {
+        "name": "If I Break ",
+        "file": "./music/ıfıbreak.mp3",
+        "img": "./albums foto/ıfıbreak.jpg"
+      },
+       {
+        "name": "Let It Burn",
+        "file": "./music/letitburn.mp3",
+        "img": "./albums foto/letitburn.jpg"
+      },
+       {
+        "name": "Love and War",
+        "file": "./music/loveandwar.mp3",
+        "img": "./albums foto/loveandwar.jpg"
+      },
+       {
+        "name": "Low of Solipsism",
+        "file": "./music/loveofsoli.mp3",
+        "img": "./albums foto/loveofsoli.jpg"
+      },
+       {
+        "name": "Meddle About",
+        "file": "./music/meddleabout.mp3",
+        "img": "./albums foto/meddleabout.jpg"
+      },
+        {
+        "name": "Mercy",
+        "file": "./music/Mercy.mp3",
+        "img": "./albums foto/Mercy.jpg"
+      },
+        {
+        "name": "Monsters",
+        "file": "./music/Monsters.mp3",
+        "img": "./albums foto/Monsters.jpg"
+      },
+        {
+        "name": "Moth",
+        "file": "./music/Moth.mp3",
+        "img": "./albums foto/Moth.jpg"
+      },
+        {
+        "name": "My Friends",
+        "file": "./music/myfriends.mp3",
+        "img": "./albums foto/myfriends.jpg"
+      },
+        {
+        "name": "Not Alone",
+        "file": "./music/notalone.mp3",
+        "img": "./albums foto/notalone.jpg"
+      },
+        {
+        "name": "Obsession",
+        "file": "./music/Obsession.mp3",
+        "img": "./albums foto/Obsession.jpg"
+      },
+        {
+        "name": "Paint It,Black",
+        "file": "./music/paintblack.mp3",
+        "img": "./albums foto/paintblack.jpg"
+      },
+        {
+        "name": "Power",
+        "file": "./music/Powe.mp3",
+        "img": "./albums foto/Powe.jpg"
+      },
+        {
+        "name": "RIP",
+        "file": "./music/RIP.mp3",
+        "img": "./albums foto/RIP.jpg"
+      },
+        {
+        "name": "Rush",
+        "file": "./music/Rush.mp3",
+        "img": "./albums foto/Rush.jpg"
+      },
+        {
+        "name": "Seven Devils",
+        "file": "./music/sevendebils.mp3",
+        "img": "./albums foto/sevendebils.jpg"
+      },
+        {
+        "name": "Something Just Like This",
+        "file": "./music/somethingjustlikethis.mp3",
+        "img": "./albums foto/somethingjustlikethis.jpg"
+      },
+        {
+        "name": "State of Mind",
+        "file": "./music/stateofmind.mp3",
+        "img": "./albums foto/stateofmind.jpg"
+      },
+        {
+        "name": "Supermassive Black Hole",
+        "file": "./music/blackhole.mp3",
+        "img": "./albums foto/blackhole.jpg"
+      },
+        {
+        "name": "Supremacy",
+        "file": "./music/Supremacy.mp3",
+        "img": "./albums foto/Supremacy.jpg"
+      },
+        {
+        "name": "Swallowed In The Sea",
+        "file": "./music/swallowedınthesea.mp3",
+        "img": "./albums foto/swallowedınthesea.jpg"
+      },
+        {
+        "name": "Takeaway",
+        "file": "./music/Takeaway.mp3",
+        "img": "./albums foto/Takeaway.jpg"
+      },
+        {
+        "name": "Time Is Running Out",
+        "file": "./music/timeisrunningout.mp3",
+        "img": "./albums foto/timeisrunningout.jpg"
+      },
+        {
+        "name": "Up In Flames",
+        "file": "./music/upınflmaes.mp3",
+        "img": "./albums foto/upınflmaes.jpg"
+      },
+        {
+        "name": "War Of Hearts",
+        "file": "./music/warofhearts.mp3",
+        "img": "./albums foto/warofhearts.jpg"
+      },
+        {
+        "name": "Warning Sign",
+        "file": "./music/warningsign.mp3",
+        "img": "./albums foto/warningsign.jpg"
+      },
+        {
+        "name": "White Flag",
+        "file": "./music/whiteflag.mp3",
+        "img": "./albums foto/whiteflag.jpg"
+      },
+        {
+        "name": "Youngblood",
+        "file": "./music/Youngblood.mp3",
+        "img": "./albums foto/Youngblood.jpg"
+      },
+        {
+        "name": "Yours Again",
+        "file": "./music/yoursagain.mp3",
+        "img": "./albums foto/yoursagain.jpg"
+      },
+        {
+        "name": "Paradise",
+        "file": "./music/paradise.mp3",
+        "img": "./albums foto/paradise.jpg"
+      },
+      {
+        "name": "Up With The Birds",
+        "file": "./music/upwithbirds.mp3",
+        "img": "./albums foto/upwithbirds.jpg"
       }
+
+
+
+       
+      
+
+
+      
+
+
+
+
+
+
+
+
 
 
 
@@ -843,7 +1179,13 @@
         "name": "Damla Damla",
         "file": "./music/damladamla.mp3",
         "img": "./albums foto/damladamla.jpg"
+      },
+      {
+        "name": "Mendil",
+        "file": "./music/mendil.mp3",
+        "img": "./albums foto/mendil.jpg"
       }
+   
    
 
 
