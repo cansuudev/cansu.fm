@@ -931,11 +931,6 @@
         "img": "./albums foto/güzlelik.jpg"
       },
        {
-        "name": "Boş Bardak",
-        "file": "./music/boşbardak.mp3",
-        "img": "./albums foto/boşbardak.jpg"
-      },
-       {
         "name": "Bu Aralar",
         "file": "./music/buaralar.mp3",
         "img": "./albums foto/buaralar.jpg"
@@ -1179,12 +1174,8 @@
         "name": "Damla Damla",
         "file": "./music/damladamla.mp3",
         "img": "./albums foto/damladamla.jpg"
-      },
-      {
-        "name": "Mendil",
-        "file": "./music/mendil.mp3",
-        "img": "./albums foto/mendil.jpg"
       }
+      
    
    
 
